@@ -1,0 +1,31 @@
+.navItemContainer {
+  /* border: 2px solid forestgreen; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+
+/* .navItem {
+  width:100%;
+  display: flex;
+  justify-content: space-around;
+  margin:0 auto;
+  border:1px solid red;
+} */
+
+.itemName {
+  /* color: #7a7a7a; */
+  font-size: 13px;
+  /* margin-left: 25px; */
+  display: block;
+}
+.iconStyle {
+  color: #7a7a7a;
+  text-align: center;
+  display: block;
+  margin-bottom: 7px;
+}

@@ -1,0 +1,17 @@
+.Container {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  background-color: #f2f2f2;
+}
+
+.nav {
+  border: 2px solid red;
+  height: 100vh;
+  background-color: #ffff;
+}
+.appContainer {
+  display: grid;
+  grid-template-rows: 10% 90%;
+  height: 100vh;
+  
+}
